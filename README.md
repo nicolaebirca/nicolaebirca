@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-End Developer
 -------------------
-
 I am a passionate frontend developer with extensive experience in creating modern, interactive web interfaces, focusing primarily on JavaScript and React. With a solid understanding of web fundamentals such as HTML5 and CSS, I have built responsive and efficient applications optimized for a seamless and intuitive user experience. 
 
 Project Highlights 
