@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolae Birca
 =====================================================================================================================================
 
-Front-End Developer
+Webentwickler | Frontend & UI/UX Developer
 -------------------
-Erfahrener Webentwickler mit Fokus auf moderne Frontend-Technologien. Spezialisiert auf JavaScript, React, Vue.js und Performance-Optimierung. Leidenschaft für intuitive und skalierbare digitale Erlebnisse. Strebe stets nach technischer Exzellenz und innovativen Lösungen.  
+Experienced web developer with a focus on modern frontend technologies. Specialized in JavaScript, React, Vue.js, and performance optimization. Passionate about creating intuitive and scalable digital experiences. Always striving for technical excellence and innovative solutions.  
   
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [MyPortfolio](http://nicolaeportfolio.netlify.app/)
