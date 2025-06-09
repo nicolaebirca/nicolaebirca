@@ -3,13 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-End Developer
 -------------------
-I am a passionate frontend developer with extensive experience in creating modern, interactive web interfaces, focusing primarily on JavaScript and React. With a solid understanding of web fundamentals such as HTML5 and CSS, I have built responsive and efficient applications optimized for a seamless and intuitive user experience. 
-
-Project Highlights 
-
-  Tasks Note App: Developed a task management application using React, allowing users to create, edit, and delete tasks, while implementing state management with React hooks for a smooth user experience. 
-  WeatherByCity: Created a weather application that allows users to search for weather conditions by city, utilizing APIs to fetch real-time weather data and displaying it in an intuitive interface. 
-  Personal Portfolio: Designed and built a personal portfolio website showcasing my projects and skills, utilizing modern web design practices and performance optimization techniques. 
+Erfahrener Webentwickler mit Fokus auf moderne Frontend-Technologien. Spezialisiert auf JavaScript, React, Vue.js und Performance-Optimierung. Leidenschaft für intuitive und skalierbare digitale Erlebnisse. Strebe stets nach technischer Exzellenz und innovativen Lösungen.  
   
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [MyPortfolio](http://nicolaeportfolio.netlify.app/)
