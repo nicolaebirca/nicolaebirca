@@ -15,7 +15,7 @@ Project Highlights
 *   🖥️  See my portfolio at [MyPortfolio](http://nicolaeportfolio.netlify.app/)
 *   ✉️  You can contact me at [bircanicolae98@gmail.com](mailto:bircanicolae98@gmail.com)
 *   🚀  I'm currently working on Food Saver Application
-*   🧠  I'm learning React
+*   🧠  I'm learning Express.js
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  "Innovate. Create. Inspire."
 <p align="left">
